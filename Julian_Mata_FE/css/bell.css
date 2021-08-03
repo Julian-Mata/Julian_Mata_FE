@@ -1,0 +1,39 @@
+/*body{
+    height: ;
+    width:  fit-content;
+    background-image: url("/lesson/images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:bottom;
+    /* background-size: ;
+} */
+.container{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    margin:0;
+    padding:0;
+    height: 50vh;
+    margin-top: 63.5%;
+    display: flex; 
+    background-image: url("/lesson/images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:bottom;
+}
+.align{
+    display: flex;
+    position: relative;
+    top: 70vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: gray;
+    border-radius: 50%;
+    width: 80px;
+    align-self: center;
+    height: 80px;
+   
+
+}
